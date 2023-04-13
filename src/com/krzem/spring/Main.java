@@ -194,11 +194,6 @@ public class Main extends Constants{
 
 
 
-
-
-
-
-
 		if (this.KEYBOARD.pressed(27)){
 			this.quit();
 		}
